@@ -6,11 +6,13 @@
 .pnp.js
 .github/
 
+
 # testing
 /coverage
 
 # production
 /build
+.github/workflows
 
 # misc
 .DS_Store
